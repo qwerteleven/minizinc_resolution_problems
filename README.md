@@ -1,16 +1,17 @@
 # minizinc resolution problems
 
-´´´
+```
 
 Classic problems soved with minizinc
 
-´´´
+```
 
 ## Getting started:
 
 ```
 
-The problems contain an example problem, to change the input data just remove this example from the file and minizinc will ask you to complete it
+The problems contain an example problem, to change the input data just remove this example 
+from the file and minizinc will ask you to complete it
 
 ```
 
